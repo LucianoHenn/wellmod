@@ -47,7 +47,7 @@
                                     <p>Medidas 8.30 x 3.20 m</p>
                                 </div>
 
-                                <a class="prague-pricing-link a-btn-arrow-2" href="detalle" target=" _blank">
+                                <a class="prague-pricing-link a-btn-arrow-2" href="detalle">
                                     <span class="arrow-right"></span>
                                     VER MAS </a>
                             </div>
