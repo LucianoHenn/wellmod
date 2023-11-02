@@ -365,7 +365,7 @@
                   <div class="project-list-outer">
                     <div class="project-list-wrapper">
                       <div class="project-list-img">
-                        <img src="#" data-lazy-src="https://www.arquitecturaydiseno.es/medio/2022/01/12/cabana-plegable-de-brette-haus_cd6f96b0_1280x720.jpeg" class="s-img-switch" alt="seascape-villa image" />
+                        <img src="#" data-lazy-src="https://casasprefabricadascube.com/wp-content/uploads/2015/12/modulos-casa-prefabricada-cube.jpg" class="s-img-switch" alt="seascape-villa image" />
                       </div>
 
                       <div class="project-list-content">
