@@ -31,6 +31,9 @@
     }
   </style>
   <script src="{{ asset('js/jquery.js') }}"></script>
+  <link rel="icon" href="https://wellmod.com.ar/wp-content/uploads/2020/05/favicon-wellmod.jpg" sizes="32x32">
+  <link rel="icon" href="https://wellmod.com.ar/wp-content/uploads/2020/05/favicon-wellmod.jpg" sizes="192x192">
+  <link rel="apple-touch-icon" href="https://wellmod.com.ar/wp-content/uploads/2020/05/favicon-wellmod.jpg">
 </head>
 
 <body>

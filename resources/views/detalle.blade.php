@@ -185,7 +185,7 @@
         </div>
         <div class="container project-detail-simple margin-lg-125b margin-sm-75b">
             <div class=" prague-share-icons">
-                <div class="prague-share-label">SHARE PROJECT</div>
+                <div class="prague-share-label">HECHO A MEDIDA</div>
 
                 <!-- <button data-share="http://www.facebook.com/sharer.php?u=alto-furniture.html&amp;t=Alto Furniture" class="icon fa fa-facebook"></button>
 
